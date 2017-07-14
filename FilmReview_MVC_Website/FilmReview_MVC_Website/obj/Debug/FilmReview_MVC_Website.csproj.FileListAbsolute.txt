@@ -405,6 +405,6 @@ C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmRe
 C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\obj\Debug\FilmReview_MVC_Website.csprojResolveAssemblyReference.cache
 C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\obj\Debug\FilmReview_MVC_Website.dll
 C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\obj\Debug\FilmReview_MVC_Website.pdb
+C:\Users\Anjela Mikhaylova\Desktop\Film Review MVC\FilmReview_MVC_Website\FilmReview_MVC_Website\obj\Debug\FilmReview_MVC_Website.csprojResolveAssemblyReference.cache

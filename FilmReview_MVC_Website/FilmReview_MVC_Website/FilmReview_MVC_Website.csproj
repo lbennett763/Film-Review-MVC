@@ -196,6 +196,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AgeRatingsController.cs" />
     <Compile Include="Controllers\FilmsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -205,6 +206,7 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Actor.cs" />
     <Compile Include="Models\AgeRating.cs" />
+    <Compile Include="Models\AgeRatingContext.cs" />
     <Compile Include="Models\Cast.cs" />
     <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\Director.cs" />
@@ -283,6 +285,11 @@
     <Content Include="Views\Films\Details.cshtml" />
     <Content Include="Views\Films\Edit.cshtml" />
     <Content Include="Views\Films\Index.cshtml" />
+    <Content Include="Views\AgeRatings\Create.cshtml" />
+    <Content Include="Views\AgeRatings\Delete.cshtml" />
+    <Content Include="Views\AgeRatings\Details.cshtml" />
+    <Content Include="Views\AgeRatings\Edit.cshtml" />
+    <Content Include="Views\AgeRatings\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

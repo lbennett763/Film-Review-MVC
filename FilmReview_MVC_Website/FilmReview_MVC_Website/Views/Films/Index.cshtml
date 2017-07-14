@@ -12,31 +12,37 @@
     <title>Index</title>
 </head>
 <body>
-    <p>
-        @Html.ActionLink("Create New", "Create")
-    </p>
+    
     
     <!--<table class="table">-->
-    <table>
+    <table id="film_index">
+        <tr></tr>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Film_Title)
             </th>
+           
             <th>
                 @Html.DisplayNameFor(model => model.Runninig_Time)
             </th>
+            
             <th>
                 @Html.DisplayNameFor(model => model.Year_Released)
             </th>
+            
             <th>
                 @Html.DisplayNameFor(model => model.Film_Language)
             </th>
+            
             <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
+            
+         
             <th>
                 @Html.DisplayNameFor(model => model.AgeRatingID)
             </th>
+            
             <th></th>
         </tr>
     
@@ -69,5 +75,9 @@
     }
     
     </table>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
 </body>
 </html>

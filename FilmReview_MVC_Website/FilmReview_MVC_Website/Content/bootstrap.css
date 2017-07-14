@@ -47,6 +47,11 @@ audio:not([controls]) {
   height: 0;
 }
 
+table#film_index {
+    background-color: #99ccff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 [hidden] {
   display: none;
 }

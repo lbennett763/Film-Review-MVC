@@ -22,3 +22,7 @@ select,
 textarea {
     max-width: 280px;
 }
+table#film_index {
+    background-color: #99ccff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
