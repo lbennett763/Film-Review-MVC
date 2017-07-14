@@ -196,7 +196,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ActorsController.cs" />
     <Compile Include="Controllers\AgeRatingsController.cs" />
+    <Compile Include="Controllers\FilmGenreController.cs" />
     <Compile Include="Controllers\FilmsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -205,6 +207,7 @@
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Actor.cs" />
+    <Compile Include="Models\ActorContext.cs" />
     <Compile Include="Models\AgeRating.cs" />
     <Compile Include="Models\AgeRatingContext.cs" />
     <Compile Include="Models\Cast.cs" />
@@ -290,9 +293,15 @@
     <Content Include="Views\AgeRatings\Details.cshtml" />
     <Content Include="Views\AgeRatings\Edit.cshtml" />
     <Content Include="Views\AgeRatings\Index.cshtml" />
+    <Content Include="Views\Actors\Create.cshtml" />
+    <Content Include="Views\Actors\Delete.cshtml" />
+    <Content Include="Views\Actors\Details.cshtml" />
+    <Content Include="Views\Actors\Edit.cshtml" />
+    <Content Include="Views\Actors\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\FilmGenre\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
